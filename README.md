@@ -41,3 +41,11 @@ npm i web3 jquery dotenv react-bootstrap bootstrap
 ```
 npm start
 ```
+<<<<<<< Updated upstream
+=======
+
+
+
+
+
+>>>>>>> Stashed changes
