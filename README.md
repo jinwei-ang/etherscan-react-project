@@ -1,6 +1,6 @@
 # Ethereum Blockchain Scanner
 
-This project simply shows fetching data from infura API using web3j to extract the required information about the Ethereum blockchain. 
+A simple project that fetch data from infura API using web3j to extract the required information about the Ethereum blockchain. 
 
 
 
