@@ -37,7 +37,8 @@ npm i web3 jquery dotenv react-bootstrap bootstrap
 ```
 
 4. Copy Infura API (PROJECT ID) into .env file.
-   - Replace "Your Infura API"
+- Replace "Your Infura API"
+
 5. Start app
 
 ```
