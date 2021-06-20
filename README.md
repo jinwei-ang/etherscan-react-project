@@ -27,10 +27,10 @@ npx create-react-app .
 ```
 
 3. Install dependencies
-   - Web3
-   - jquery
-   - dotenv
-   - react-bootstrap
+- Web3
+- jquery
+- dotenv
+- react-bootstrap
 
 ```
 npm i web3 jquery dotenv react-bootstrap bootstrap
